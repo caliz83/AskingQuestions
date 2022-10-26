@@ -1,0 +1,15 @@
+C:\Users\lizg1\GitAskingQuestions\AskingQuestions\obj\Debug\net6.0\AskingQuestions.csproj.AssemblyReference.cache
+C:\Users\lizg1\GitAskingQuestions\AskingQuestions\obj\Debug\net6.0\AskingQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizg1\GitAskingQuestions\AskingQuestions\obj\Debug\net6.0\AskingQuestions.AssemblyInfoInputs.cache
+C:\Users\lizg1\GitAskingQuestions\AskingQuestions\obj\Debug\net6.0\AskingQuestions.AssemblyInfo.cs
+C:\Users\lizg1\GitAskingQuestions\AskingQuestions\obj\Debug\net6.0\AskingQuestions.csproj.CoreCompileInputs.cache
+C:\Users\lizg1\GitAskingQuestions\AskingQuestions\bin\Debug\net6.0\AskingQuestions.exe
+C:\Users\lizg1\GitAskingQuestions\AskingQuestions\bin\Debug\net6.0\AskingQuestions.deps.json
+C:\Users\lizg1\GitAskingQuestions\AskingQuestions\bin\Debug\net6.0\AskingQuestions.runtimeconfig.json
+C:\Users\lizg1\GitAskingQuestions\AskingQuestions\bin\Debug\net6.0\AskingQuestions.dll
+C:\Users\lizg1\GitAskingQuestions\AskingQuestions\bin\Debug\net6.0\AskingQuestions.pdb
+C:\Users\lizg1\GitAskingQuestions\AskingQuestions\obj\Debug\net6.0\AskingQuestions.dll
+C:\Users\lizg1\GitAskingQuestions\AskingQuestions\obj\Debug\net6.0\refint\AskingQuestions.dll
+C:\Users\lizg1\GitAskingQuestions\AskingQuestions\obj\Debug\net6.0\AskingQuestions.pdb
+C:\Users\lizg1\GitAskingQuestions\AskingQuestions\obj\Debug\net6.0\AskingQuestions.genruntimeconfig.cache
+C:\Users\lizg1\GitAskingQuestions\AskingQuestions\obj\Debug\net6.0\ref\AskingQuestions.dll
